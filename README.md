@@ -110,6 +110,6 @@ npm start
 3. 변경사항을 커밋합니다
 4. Pull Request를 생성합니다
 
-## �� 라이선스
+## 📄 라이선스
 
 MIT License
