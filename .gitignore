@@ -70,3 +70,6 @@ frontend/dist/
 # Temporary files
 *.tmp
 *.temp
+
+# Keep docs folder with screenshots
+!docs/

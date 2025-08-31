@@ -14,7 +14,7 @@ function ModelVisualizer() {
     const fetchData = async () => {
       try {
         setLoading(true);
-        const response = await axios.get("http://127.0.0.1:8000/model/shapes");
+        const response = await axios.get("http://127.0.0.1:9000/model/shapes");
         setLayers(response.data.layers);
         setError(null);
       } catch (err) {
